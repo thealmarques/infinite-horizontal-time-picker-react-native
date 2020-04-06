@@ -1,0 +1,41 @@
+{
+  "name": "infinite-horizontal-time-picker",
+  "version": "1.0.0",
+  "description": "Infinite horizontal time picker component for react native",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thealmarques/infinite-horizontal-time-picker-react-native.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Horizontal",
+    "Picker",
+    "Time"
+  ],
+  "dependencies": {
+    "prop-types": "15.7.2"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@types/react": "^16.9.11",
+    "@types/react-native": "^0.60.22",
+    "tslint": "^6.1.1",
+    "typescript": "^3.8.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "author": "André Marques",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thealmarques/infinite-horizontal-time-picker-react-native/issues"
+  },
+  "homepage": "https://github.com/thealmarques/infinite-horizontal-time-picker-react-native#readme"
+}
