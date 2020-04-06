@@ -1,20 +1,22 @@
-# infinite-horizontal-time-picker
+# infinite-horizontal-time-picker-react-native
 
 A react native component that allows you to pick a schedule in an bidirectional scroll component.
+
+<img src="resources/scroll.gif" />
 
 ## Installation
 
 Run this command in order to have this component in your project directory.
 
 ```bash
-npm install infinite-horizontal-time-picker
+npm install infinite-horizontal-time-picker-react-native
 ```
 
 ## Usage
 ```
 import React from "react";
 import { StyleSheet, View } from "react-native";
-import HorizontalTimePiker from "infinite-horizontal-time-picker";
+import HorizontalTimePiker from "infinite-horizontal-time-picker-react-native";
 
 export default function App() {
   return (
