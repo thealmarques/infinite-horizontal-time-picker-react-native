@@ -1,6 +1,6 @@
 # infinite-horizontal-time-picker-react-native
 
-A react native component that allows you to pick a schedule in an bidirectional scroll component.
+A react native component that allows you to pick a specific time in an bidirectional scroll component. The selected item will be automatically centered in the middle of the screen.
 
 <img src="resources/scroll.gif" height="50%" width="50%"/>
 
@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
 # Pending Tasks
 [ ] 24 hour support
 
-[ ] When the user reaches the limit of the scrollview (backwards) in order to have infinite scroll the list will be populated by shifting the remaining items, which causes a small loading in the screen.
+[ ] When the user reaches the limit of the scrollview (backwards) in order to have infinite scroll the list will be populated by shifting the remaining items, which causes a small loading in the screen. The idea is to have another strategy to support backwards scroll.
 
 # Contributing
 This project is currently in beta stage. If you have any bug you want to report or any suggestion just create an issue.
