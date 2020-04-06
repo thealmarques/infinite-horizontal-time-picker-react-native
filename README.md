@@ -63,6 +63,8 @@ const styles = StyleSheet.create({
 # Pending Tasks
 [ ] 24 hour support
 
+[ ] More styling options
+
 [ ] When the user reaches the limit of the scrollview (backwards) in order to have infinite scroll the list will be populated by shifting the remaining items, which causes a small loading in the screen. The idea is to have another strategy to support backwards scroll.
 
 # Contributing
