@@ -2,7 +2,7 @@
 
 A react native component that allows you to pick a schedule in an bidirectional scroll component.
 
-<img src="resources/scroll.gif" />
+<img src="resources/scroll.gif" height="50%" width="50%"/>
 
 ## Installation
 
