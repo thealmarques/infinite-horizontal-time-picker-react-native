@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
 * **marginHorizontal** - Used to set the horizontal margin of the inner component.
 * **enabled** - Set true or false in order to enable the picker.
 * **onChange** - Callback function called when there's a change in the picker - onChange(value: string).
-* **visibleElements** - Defines the visible number of the elements in the viewport.
+* **visibleElements** - Defines the visible number of the elements in the scroll.
 * **mainColor** - Text color of the selected item.
 * **secondaryColor** - Text color of the remaining items.
 * **fontSize** - Font size of the selected item (the others will be calculated according to a specific rule.
@@ -62,6 +62,8 @@ const styles = StyleSheet.create({
 
 # Pending Tasks
 [ ] 24 hour support
+
+[ ] More styling options
 
 [ ] When the user reaches the limit of the scrollview (backwards) in order to have infinite scroll the list will be populated by shifting the remaining items, which causes a small loading in the screen. The idea is to have another strategy to support backwards scroll.
 
