@@ -85,7 +85,7 @@ export default class HorizontalTimePiker extends React.Component<Props> {
         });
       });
       this.setState({ selected: index, scrolling: false });
-      this.props.onChange(this.state.display[index]);
+      this.props.onChange(this.state.display[index], index);
     }
   }
 
