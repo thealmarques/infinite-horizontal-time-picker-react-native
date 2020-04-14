@@ -5,9 +5,9 @@ import {
   InteractionManager,
   Dimensions,
   Text,
-  View,
-  FlatList,
+  View
 } from 'react-native';
+import { FlatList } from 'react-native-gesture-handler';
 
 interface Props {
   onChange: any;
