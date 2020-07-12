@@ -9,7 +9,7 @@ A react native component that allows you to pick a specific time in an bidirecti
 Run this command in order to have this component in your project directory.
 
 ```bash
-npm install infinite-horizontal-time-picker-react-native
+git clone https://github.com/thealmarques/infinite-horizontal-time-picker-react-native.git
 ```
 
 ## Usage
